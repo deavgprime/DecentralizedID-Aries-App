@@ -30,7 +30,7 @@ TypeScript (>= 4.x)
 Clone the Repository
 
 git clone https://github.com/deavgprime/DecentralizedID-Aries-App.git
-cd MyDecentralizedId-API
+cd DecentralizedID-Aries-App
 
 Install Dependencies
 npm install
