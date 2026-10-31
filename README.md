@@ -10,7 +10,7 @@ This is a proof of concept, not a maintained identity platform. Existing design 
 
 The Decentralized Mobile Identity API Solution is a comprehensive backend service for managing financial products, transactions, and relevant stakeholders such as customers and agents.
 
-![image](https://github.com/devgprime/WeIDYMTCT/assets/131144462/27cc944f-4910-4775-b73a-e14d86b2bf9b)
+![image](https://github.com/deavgprime/DecentralizedID-Aries-App/assets/131144462/27cc944f-4910-4775-b73a-e14d86b2bf9b)
 
 
 # Features
@@ -29,7 +29,7 @@ TypeScript (>= 4.x)
 # Installation
 Clone the Repository
 
-git clone https://github.com/devgprime/MyDecentralizedId.git
+git clone https://github.com/deavgprime/DecentralizedID-Aries-App.git
 cd MyDecentralizedId-API
 
 Install Dependencies
